@@ -1,10 +1,10 @@
-### Hello there, I'm Matheus Almeida  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="26px">
+### Hello there, I'm Matheus Almeida
 
-[<img align="left" alt="almeida-matheus | Drive" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/googledrive.svg" />][drive]
-[<img align="left" alt="almeida-matheus | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="almeida-matheus | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/gmail.svg" />][gmail]
-[<img align="left" alt="almeida-matheus | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="almeida-matheus | Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/steam.svg" />][steam]
+[<img align="left" alt="almeida-matheus | Drive" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/googledrive.svg" />][drive]
+[<img align="left" alt="almeida-matheus | LinkedIn" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="almeida-matheus | Gmail" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/gmail.svg" />][gmail]
+[<img align="left" alt="almeida-matheus | Instagram" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="almeida-matheus | Steam" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/steam.svg" />][steam]
 
 <br/>
 
