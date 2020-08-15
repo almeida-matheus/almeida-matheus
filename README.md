@@ -18,7 +18,7 @@ I'm currently learning programming, networking, operating system and hacking
 ### Programming Languages
 
 ![]("")
-<img src="https://img.shields.io/badge/shell_script%20-%2300599C.svg?&style=for-the-badge&logo=linux&logoColor=white&color=1c1f1e"/>
+<img src="https://img.shields.io/badge/shell_script%20-%2300599C.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white&color=1c1f1e"/>
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white&color=083d1c"/>
 <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
