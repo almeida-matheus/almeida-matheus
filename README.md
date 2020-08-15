@@ -11,24 +11,49 @@
 ---
 
 ### About me
-- I'm currently learning programming, networking, operating system and hacking
+I'm currently learning programming, networking, operating system and hacking
 
 ---
 
-### Languages and Tools
-![](https://img.shields.io/badge/Shell-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=0b4d35)
-![](https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=python&logoColor=white&color=0b4d35)
-![](https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=0b4d35)
-![](https://img.shields.io/badge/Css-informational?style=for-the-badge&logo=CSS3&logoColor=white&color=0b4d35)
-![](https://img.shields.io/badge/Html-informational?style=for-the-badge&logo=HTML5&logoColor=white&color=0b4d35)
-![](https://img.shields.io/badge/C-informational?style=for-the-badge&logo=Codio&logoColor=white&color=0b4d35)
-![](https://img.shields.io/badge/Mysql-informational?style=for-the-badge&logo=MySQL&logoColor=white&color=0b4d35)
-![](https://img.shields.io/badge/Sqlite-informational?style=for-the-badge&logo=SQLite&logoColor=white&color=0b4d35)
-![](https://img.shields.io/badge/Git-informational?style=for-the-badge&logo=git&logoColor=white&color=0b4d35)
+### Programming Languages
 
-![](https://img.shields.io/badge/Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=0b4d35)
-![](https://img.shields.io/badge/Django-informational?style=for-the-badge&logo=python&logoColor=white&color=0b4d35)
-![](https://img.shields.io/badge/Bootstrap-informational?style=for-the-badge&logo=bootstrap&logoColor=white&color=0b4d35)
+![]("")
+<img src="https://img.shields.io/badge/shell_script%20-%2300599C.svg?&style=for-the-badge&logo=linux&logoColor=white&color=1c1f1e"/>
+<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white&color=083d1c"/>
+<img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+
+### Frameworks
+
+![]("")
+<img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
+
+### Databases
+
+![]("")
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white&color=0b4173"/>
+<img src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
+
+### Version Control
+
+![]("")
+<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+
+### Servers
+
+![]("")
+<img src="https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white"/>
+
+<!---
+### Hosting/SaaS
+![]("")
+<img src="https://img.shields.io/badge/Digital Ocean-%230167ff.svg?&style=for-the-badge&logo=digitalOcean&logoColor=white&color=0080FF"/>
+<img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white&color=c97404"/>
+-->
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
