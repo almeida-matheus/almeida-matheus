@@ -1,17 +1,12 @@
 ### Hello there, I'm Matheus Almeida
 
-[<img align="left" alt="almeida-matheus | Drive" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/googledrive.svg" />][drive]
+[<img align="left" alt="almeida-matheus" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="almeida-matheus | LinkedIn" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="almeida-matheus | Gmail" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/gmail.svg" />][gmail]
 [<img align="left" alt="almeida-matheus | Instagram" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="almeida-matheus | Steam" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/steam.svg" />][steam]
 
 <br/>
-
----
-
-### About me
-I'm currently learning programming, networking, operating system and hacking
 
 ---
 
@@ -40,14 +35,14 @@ I'm currently learning programming, networking, operating system and hacking
 ### Version Control
 
 ![]("")
-<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 
+<!---
 ### Servers
-
 ![]("")
 <img src="https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white"/>
-
+-->
 <!---
 ### Hosting/SaaS
 ![]("")
@@ -63,8 +58,9 @@ I'm currently learning programming, networking, operating system and hacking
 <!-- Shields: https://shields.io/ -->
 <!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
 
-[drive]: https://drive.google.com/drive/folders/1ETZjPavhv3rlduPBr5z9vcnbGA1BDRIz?usp=sharing
+[website]: https://almeida-matheus.github.io/
 [instagram]: https://www.instagram.com/matheuscbjr/
 [linkedin]: https://www.linkedin.com/in/matheus-almeida-costa/
 [steam]: https://steamcommunity.com/id/shiryunk/
 [gmail]: mailto:almeidamatheus.m@gmail.com
+[drive]: https://drive.google.com/drive/folders/1ETZjPavhv3rlduPBr5z9vcnbGA1BDRIz?usp=sharing
