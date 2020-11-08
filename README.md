@@ -2,7 +2,6 @@
 
 [<img align="left" alt="almeida-matheus | Website" width="18px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="almeida-matheus | LinkedIn" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="almeida-matheus | Gmail" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/gmail.svg" />][gmail]
 [<img align="left" alt="almeida-matheus | Instagram" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="almeida-matheus | Steam" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/steam.svg" />][steam]
 
@@ -16,7 +15,7 @@
 <img src="https://img.shields.io/badge/shell_script%20-%2300599C.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white&color=1c1f1e"/>
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white&color=083d1c"/>
 <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=white&color=ccaa00"/>
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 
@@ -52,15 +51,16 @@
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
+<!-- Icons: https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ -->
 <!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
 <!-- Emojis: https://emojipedia.org/emoji/ -->
 <!-- HTML Emojis: https://www.fileformat.info/index.htm -->
 <!-- Shields: https://shields.io/ -->
 <!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
 
+[telegram]: https://t.me/almeidamatheus
 [website]: https://almeida-matheus.github.io/
 [instagram]: https://www.instagram.com/matheuscbjr/
 [linkedin]: https://www.linkedin.com/in/matheus-almeida-costa/
 [steam]: https://steamcommunity.com/id/shiryunk/
 [gmail]: mailto:almeidamatheus.m@gmail.com
-[drive]: https://drive.google.com/drive/folders/1ETZjPavhv3rlduPBr5z9vcnbGA1BDRIz?usp=sharing
