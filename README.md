@@ -1,7 +1,7 @@
 ### Hello there, I'm Matheus Almeida
 
 <a href="https://almeida-matheus.github.io/" target="_blank">
-  <img src="https://img.shields.io/badge/website%20-%230077B5.svg?&style=for-the-badge&logo=circle&logoColor=white&color=4b4b49"/>
+  <img src="https://img.shields.io/badge/website%20-%230077B5.svg?&style=for-the-badge&logo=circle&logoColor=white&color=323232"/>
 </a>
 <a href="https://www.linkedin.com/in/matheus-almeida-costa/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -12,22 +12,22 @@
 </a>
 -->
 <a href="https://www.youtube.com/channel/UCGke88VCjj799vKSbBGW64g?view_as=subscriber" target="_blank">
-  <img src="https://img.shields.io/badge/youtube%20-%23FF0000.svg?&style=for-the-badge&logo=youTube&logoColor=white"/>
+  <img src="https://img.shields.io/badge/youtube%20-%23FF0000.svg?&style=for-the-badge&logo=youTube&logoColor=white&color=b20000"/>
 </a>
 <a href="https://t.me/almeidamatheus" target="_blank">
   <img src="https://img.shields.io/badge/telegram%20-%2320232a.svg?&style=for-the-badge&logo=telegram&logoColor=white&color=0088cc"/>
 </a>
 <a href="https://steamcommunity.com/id/shiryunk/" target="_blank">
-  <img src="https://img.shields.io/badge/steam%20-%2320232a.svg?&style=for-the-badge&logo=steam&logoColor=white&color=4b4b49"/>
+  <img src="https://img.shields.io/badge/steam%20-%2320232a.svg?&style=for-the-badge&logo=steam&logoColor=white&color=323232"/>
 </a>
 <br/>
 
 ---
 
-### Programming Languages
+### Languages
 
 ![]("")
-<img src="https://img.shields.io/badge/shell_script%20-%2300599C.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white&color=4b4b49"/>
+<img src="https://img.shields.io/badge/shell_script%20-%2300599C.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white&color=323232"/>
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white&color=083d1c"/>
 <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=white&color=cca400"/>
@@ -39,17 +39,21 @@
 ![]("")
 <img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<!--
 <img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white&color=cca400"/>
+-->
 ### Databases
 
 ![]("")
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white&color=0b4173"/>
 <img src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img alt="PostgresSQL" src ="https://img.shields.io/badge/postgresql-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
+
 
 ### Version Control
 
 ![]("")
-<img src="https://img.shields.io/badge/github%20-%2320232a.svg?&style=for-the-badge&logo=github&logoColor=white&color=4b4b49"/>
+<img src="https://img.shields.io/badge/github%20-%2320232a.svg?&style=for-the-badge&logo=github&logoColor=white&color=323232"/>
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 
 <!---
