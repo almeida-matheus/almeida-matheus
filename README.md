@@ -1,25 +1,17 @@
-### Hello there, I'm Matheus Almeida
-
-<a href="https://almeida-matheus.github.io/" target="_blank">
-  <img src="https://img.shields.io/badge/website%20-%230077B5.svg?&style=for-the-badge&logo=circle&logoColor=white&color=323232"/>
-</a>
-<a href="https://www.linkedin.com/in/matheus-almeida-costa/" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+## Hello there, I'm Matheus Almeida
+> :)
+<br>
+<p>You can contact me here:</p>
+<a href="https://almeida-matheus.github.io/" target="__blank"><img src="https://img.shields.io/badge/website%20-%230077B5.svg?&style=for-the-badge&logo=circle&logoColor=white&color=323232"></img></a>
+<a href="https://www.linkedin.com/in/matheus-almeida-costa/" target="__blank"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
+<a href="https://www.youtube.com/channel/UCGke88VCjj799vKSbBGW64g?view_as=subscriber" target="__blank"><img src="https://img.shields.io/badge/youtube%20-%23FF0000.svg?&style=for-the-badge&logo=youTube&logoColor=white&color=b20000"></img></a>
+<a href="https://t.me/almeidamatheus" target="__blank"><img src="https://img.shields.io/badge/telegram%20-%2320232a.svg?&style=for-the-badge&logo=telegram&logoColor=white&color=0088cc"></img></a>
+<a href="https://steamcommunity.com/id/shiryunk/" target="__blank"><img src="https://img.shields.io/badge/steam%20-%2320232a.svg?&style=for-the-badge&logo=steam&logoColor=white&color=323232"></a>
 <!--
 <a href="https://medium.com/@almeida_matheus" target="_blank">
   <img src="https://img.shields.io/badge/medium%20-%2320232a.svg?&style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
 -->
-<a href="https://www.youtube.com/channel/UCGke88VCjj799vKSbBGW64g?view_as=subscriber" target="_blank">
-  <img src="https://img.shields.io/badge/youtube%20-%23FF0000.svg?&style=for-the-badge&logo=youTube&logoColor=white&color=b20000"/>
-</a>
-<a href="https://t.me/almeidamatheus" target="_blank">
-  <img src="https://img.shields.io/badge/telegram%20-%2320232a.svg?&style=for-the-badge&logo=telegram&logoColor=white&color=0088cc"/>
-</a>
-<a href="https://steamcommunity.com/id/shiryunk/" target="_blank">
-  <img src="https://img.shields.io/badge/steam%20-%2320232a.svg?&style=for-the-badge&logo=steam&logoColor=white&color=323232"/>
-</a>
 <br/>
 
 ---
