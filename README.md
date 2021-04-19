@@ -1,8 +1,10 @@
 ## Hello there, I'm Matheus Almeida
-> :)
+<!-- > :) 
+-->
 <br>
-<p>You can contact me here:</p>
-<a href="https://almeida-matheus.github.io/" target="__blank"><img src="https://img.shields.io/badge/website%20-%230077B5.svg?&style=for-the-badge&logo=circle&logoColor=white&color=323232"></img></a>
+<p>Contact me at:</p>
+<a href="https://matheustech.com.br/" target="__blank"><img src="https://img.shields.io/badge/website%20-%230077B5.svg?&style=for-the-badge&logo=circle&logoColor=white&color=323232"></img></a>
+<a href="https://blog.matheustech.com.br/" target="__blank"><img src="https://img.shields.io/badge/blog%20-%230077B5.svg?&style=for-the-badge&logo=circle&logoColor=white&color=323232"></img></a>
 <a href="https://www.linkedin.com/in/matheus-almeida-costa/" target="__blank"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 <a href="https://www.youtube.com/channel/UCGke88VCjj799vKSbBGW64g?view_as=subscriber" target="__blank"><img src="https://img.shields.io/badge/youtube%20-%23FF0000.svg?&style=for-the-badge&logo=youTube&logoColor=white&color=b20000"></img></a>
 <a href="https://t.me/almeidamatheus" target="__blank"><img src="https://img.shields.io/badge/telegram%20-%2320232a.svg?&style=for-the-badge&logo=telegram&logoColor=white&color=0088cc"></img></a>
@@ -19,9 +21,10 @@
 ### Languages
 
 ![]("")
-<img src="https://img.shields.io/badge/shell_script%20-%2300599C.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white&color=323232"/>
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white&color=083d1c"/>
+<img src="https://img.shields.io/badge/shell_script%20-%2300599C.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white&color=323232"/>
 <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/csharp%20-%2314354C.svg?&style=for-the-badge&logo=c+sharp&logoColor=white&color=083d1c"/>
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=white&color=cca400"/>
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
@@ -70,9 +73,10 @@
 <!-- Shields: https://shields.io/ -->
 <!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
 
+[website]: https://matheustech.com.br/
+[blog]: https://blog.matheustech.com.br/
 [telegram]: https://t.me/almeidamatheus
-[website]: https://almeida-matheus.github.io/
-[instagram]: https://www.instagram.com/matheuscbjr/
 [linkedin]: https://www.linkedin.com/in/matheus-almeida-costa/
+[instagram]: https://www.instagram.com/matheuscbjr/
 [steam]: https://steamcommunity.com/id/shiryunk/
 [gmail]: mailto:almeidamatheus.m@gmail.com
