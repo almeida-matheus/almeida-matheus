@@ -2,26 +2,35 @@
 
 <p align="left">
   <h3> Hello there, I'm Matheus Almeida </h3>
-  <blockquote>I'm a DevSecOps student</blockquote>
+  <blockquote>I'm a devsecops student</blockquote>
   </br>
-  <!--   <h4> Devops </h4> -->
   <p align="left">
     <strong>Cloud Provider:</strong> AWS
   </p>
   <p align="left">
+    <strong>Infrastructure as Code:</strong> Terraform
+  </p>
+  <p align="left">
+    <strong>Container:</strong> Docker
+  </p>
+<!--   <p align="left">
+    <strong>Container:</strong> Docker, Kubernetes
+  </p> -->
+<!--   <p align="left">
+    <strong>Pipeline CI/CD:</strong> GitLab
+  </p> -->
+<!--   <p align="left">
     <strong>Operating System:</strong> Linux, Windows
-  </p>
+  </p> -->
   <p align="left">
-    <strong>Tools:</strong> Shell Script, Python, Terraform, Docker
-<!-- <strong>Tools:</strong> Shell Script, Python, Terraform, Docker, Kubernetes -->
-  </p>
-  <!--   <h4> Web Development </h4> -->
-  <p align="left">
-    <strong>Front-end:</strong> HTML, CSS, Javascript, Bootstrap
+    <strong>Script:</strong> Python, Shell Script
   </p>
   <p align="left">
     <strong>Back-end:</strong> Django, PHP, SQL
 <!-- <strong>Back-end:</strong> Python with Django, Javascript with Node.js, PHP, SQL -->
+  </p>
+  <p align="left">
+    <strong>Front-end:</strong> HTML, CSS, Javascript, Bootstrap
   </p>
   <p align="left">
     <strong>Version Control:</strong> Git, GitHub, GitLab
