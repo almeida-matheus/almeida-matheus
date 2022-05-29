@@ -11,19 +11,19 @@
     <strong>Automation Script:</strong> Python, Shell Script
   </p>
   <p align="left">
-    <strong>Back-end:</strong> Python (Django, Flask), PHP, SQL
+    <strong>Back-end:</strong> Python (Django, Flask, FastAPI), PHP, SQL
   </p>
   <p align="left">
     <strong>Front-end:</strong> HTML, CSS, Javascript, Bootstrap
   </p>
   <p align="left">
-    <strong>Version Control:</strong> Git, GitHub
+    <strong>Version Control:</strong> Git, GitHub, GitLab
   </p>
   <p align="left">
     <strong>Infrastructure as Code:</strong> Terraform
   </p>
   <p align="left">
-    <strong>Container:</strong> Docker
+    <strong>Container:</strong> Docker, Kubernetes
   </p>
 </br>
 </p>
