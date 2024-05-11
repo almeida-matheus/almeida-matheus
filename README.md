@@ -39,6 +39,6 @@
   <a href="https://www.linkedin.com/in/matheus-almeida-costa/" target="__blank"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="https://almeidamatheus.me/" target="__blank"><img src="https://img.shields.io/badge/website%20-%230077B5.svg?&style=flat-square&logo=circle&logoColor=white&color=424242"></a>
   <a href="https://blog.almeidamatheus.me/" target="__blank"><img src="https://img.shields.io/badge/blog%20-%230077B5.svg?&style=flat-square&logo=circle&logoColor=white&color=175d5a"></a>
-  <a href="https://almeida-matheus.medium.com/" target="__blank"><img src="https://img.shields.io/badge/dev.to%20-%230077B5.svg?&style=flat-square&logo=dev.to&logoColor=white&color=424242"></a>
+  <a href="https://dev.to/almeidamatheus/" target="__blank"><img src="https://img.shields.io/badge/dev.to%20-%230077B5.svg?&style=flat-square&logo=dev.to&logoColor=white&color=424242"></a>
   <a href="https://www.youtube.com/channel/UCGke88VCjj799vKSbBGW64g?view_as=subscriber" target="__blank"><img src="https://img.shields.io/badge/youtube%20-%23FF0000.svg?&style=flat-square&logo=youTube&logoColor=white&color=b20000"></a>
 </p>
